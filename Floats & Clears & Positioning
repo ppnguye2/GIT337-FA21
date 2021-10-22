@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>02 // STATIC (FIXED) WEB LAYOUTS</title>
+        <meta name="description" content="Floats & Clears & Positioning">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    
+    <body>    
+        <nav>
+            <h1>H1 Text</h1>
+            <p>Description for h1 text.</p>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </nav>
+        
+        <img src="#" alt="a picture" width="500" height="500">
+        
+        <section> 
+        <h2>H2 text.</h2>    
+        <p>H2 content description.</p>
+        </section>
+        
+        <footer>
+            <p>Phuong-Anh Nguyen GIT337</p>
+        </footer>
+        
+    </body>
+</html>
